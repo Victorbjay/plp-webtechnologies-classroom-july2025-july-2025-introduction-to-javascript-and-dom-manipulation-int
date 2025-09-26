@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 2rem;
+  background: #f5f5f5;
+}
+
+button {
+  margin: 0.5rem;
+  padding: 0.75rem 1.2rem;
+  border: none;
+  background: #4a90e2;
+  color: #fff;
+  font-size: 1rem;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #357ab8;
+}
+
+#number-list {
+  margin-top: 1rem;
+  list-style: none;
+  padding: 0;
+}
